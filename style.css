@@ -1,0 +1,40 @@
+.container {
+    border: 5px solid grey;
+    height: 200px;
+    width: 600px;
+    background-color: rgb(149, 231, 252);
+    padding: 10px;
+    border-radius: 2%;
+}
+
+.upper {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+button {
+    width: 70px;
+    height: 70px;
+    background-color: orange;
+    box-shadow: 3px 3px 0px black;
+    font-family: cursive;
+    font-weight: 900;
+    border: 2px solid black;
+}
+
+.content {
+    font-family: cursive;
+    font-weight: 900;
+    text-align: center;
+}
+
+h1 {
+    font-family:sans-serif;
+    font-weight: 500;
+}
+
+#count {
+    font-family:sans-serif;
+    font-weight: 500;
+}
